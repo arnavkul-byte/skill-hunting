@@ -1,0 +1,10 @@
+#.gitignore
+
+keys.txt
+# Python
+app_ws/
+*.pyc
+
+# Node
+frontend/node_modules/
+frontend/vite-project/
